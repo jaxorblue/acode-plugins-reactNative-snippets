@@ -113,4 +113,8 @@ If you find the React Native Snippets plugin useful, consider giving it a star r
 
 It's a simple way to show your appreciation and help others discover the project. Whether through code or a simple star rating, help make the React Native Snippets plugin better for the entire community. 
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ❤️ Thank you for your support!
